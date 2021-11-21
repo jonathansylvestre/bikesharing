@@ -2,7 +2,7 @@
 [link to dashboard](https://public.tableau.com/app/profile/jonathan.sylvestre/viz/ModuleChallenge14_16373746926990/Story1?publish=yes)
 # Purpose
 The purpose of this exercise was to convince investors that a bike-sharing program in Des Moines is worth investing in. This challenge provided images that displayed in detail the behaviors of riders during the month of August. 
-# Summary 
+# Results
 To sum it up, the month of August appears to be really lucrative for bike-sharing companies in New York City. This makes sense as the weather permits and promotes physical activity amongst locals and tourists. 
 <p align="center">
     <img width="300" src="https://user-images.githubusercontent.com/88862384/142747058-ab97a1dd-c066-4a87-8834-f3c488281df6.png">
@@ -29,5 +29,6 @@ To sum it up, the month of August appears to be really lucrative for bike-sharin
     </p>
     <p align="center"> *Males are the majority of subscribers to Citi bike services and should be the focus of marketing efforts*
     </p>
+
 # Summary
 In conclusion, it appears that New York City provides Citi bike with ample riders particularly because it is one of the world centers. The city provides one of the denses populations in the world and ranks very high in tourism. Because of the convenience that these bikes provide riders who may want to avoid spending half an hour in traffic riding an Uber or cab, these citibikes are a smart investment. In a city like Des Moines, Iowa on the other hand, this may not be the case because of the diffrent attributes of this unique midwestern state. Two additional visualizations that I would recommend are for ridership in different months and ridership in other Burroughs besides Manhattan if present.
